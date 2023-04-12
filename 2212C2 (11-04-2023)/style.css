@@ -1,0 +1,35 @@
+/* #fn{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+#sn{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+} */
+
+.para{
+    color: white;
+    background-color: blueviolet;
+    width: 300px;
+    border: 10px groove red;
+
+}
